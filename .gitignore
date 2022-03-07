@@ -8,6 +8,9 @@ node_modules
 *.txt
 *.csv
 
+# Ignore zip files
+*.zip
+
 # Ignore files related to API keys
 .env
 
