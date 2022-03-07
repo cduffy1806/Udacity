@@ -4,11 +4,15 @@
 # Ignore node_modules folder
 node_modules
 
-# Ignore all text files
+# Ignore all text & csv files
 *.txt
+*.csv
 
 # Ignore files related to API keys
 .env
 
 # Ignore SASS config files
 .sass-cache
+
+#Ingore scratch files
+udacity/section_2_python/bikeshare_scratch.py
