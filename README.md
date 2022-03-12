@@ -1,3 +1,3 @@
-# Website Build Exercise
+# Programming for Data Science Nanodegree
 
-A simple app 
+Repository for each of the 3 sections covered in 1st Nanodegree
